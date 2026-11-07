@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/curobo/commit/87e857d46fa5398f268c7f31d26566351be8671d",
       "git:hexsha": "87e857d46fa5398f268c7f31d26566351be8671d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
