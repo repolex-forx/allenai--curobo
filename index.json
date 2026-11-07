@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "curobo",
+  "versions": [
+    {
+      "commit": "87e857d46fa5398f268c7f31d26566351be8671d",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:24:40.599513+00:00"
+    }
+  ]
+}
